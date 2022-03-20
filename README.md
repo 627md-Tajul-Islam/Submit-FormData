@@ -9,4 +9,3 @@ Start Apache & MySQL
 Go to the Local Disc(C:) >> xampp >> htdocs  
 
 Hide Defualt files(not necessary) 
-
